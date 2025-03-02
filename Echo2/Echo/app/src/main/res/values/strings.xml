@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Echo</string>
+    <string name="my_name">Andrey Nicolas Sepulveda Carvajal</string>
+    <string name="register">Registrate</string>
+    <string name="introductive_text">Inicia una nueva aventura con Echo y descubre una nueva forma de ver el mundo</string>
+    <string name="start">Comienza</string>
+    <string name="welcome_text_loggin">La aventura esta por iniciar, por favor inicia sesion</string>
+    <string name="loggin">Ingresar</string>
+    <string name="password_lost">Recupera Tu Contraseña</string>
+    <string name="google_loggin">Ingresa con Google</string>
+    <string name="create_account">No tienes cuenta?</string>
+    <string name="text_register">Por favor complete los datos del formulario para registrar su usuario.</string>
+    <string name="text_termsandconditions">Accept terms and conditions.</string>
+    <string name="complete_register">Terminar registro.</string>
+    <string name="back">Regresar al menú</string>
+    <string name="recover_password_text">Para recuperar su contraseña, por favor ingrese el correo con el que inicia sesion.</string>
+    <string name="recover_password_button">Recuperar contraseña.</string>
+    <string name="name_profile">Andrey Nicolas</string>
+    <string name="lastname_profile">Sepulveda Carvajal</string>
+    <string name="email_profile">aaaaaa@gmail.com</string>
+    <string name="number_profile">1234567890</string>
+    <string name="edit_profile">Editar</string>
+    <string name="finish_edit">Terminar edición</string>
+</resources>
